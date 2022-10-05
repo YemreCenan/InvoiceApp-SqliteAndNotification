@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fatura Bilgi Tutucu</string>
+    <string name="notification_activity">NotificationView</string>
+
+</resources>
